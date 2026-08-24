@@ -74,8 +74,8 @@ http://127.0.0.1:8000/api/v1/products/2
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd product-client
+git clone https://github.com/MuddasirCreators/ProductAPI-Hub
+cd ProductAPI Hub
 ```
 
 ### 2. Install Dependencies
